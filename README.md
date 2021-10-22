@@ -14,7 +14,7 @@ A **WEB DEVELOPMENT** 🚀.
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 </td>
  <td width="50%" align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agung83&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=yeviki">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeviki&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=yeviki">
   </td>
 </tr>
 </table>
