@@ -16,6 +16,11 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 - 🤔 My interest lies in front end web development.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
+- 
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yeviki&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeviki&theme=react&layout=compact" />
+</p>
 
 <!-- CONNECTION -->
 <a href="https://www.youtube.com/channel/UCGxLwThl-qukhCM9EViuIyQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
@@ -39,10 +44,7 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 </p>  
 <a href="https://www.youtube.com/channel/UCGxLwThl-qukhCM9EViuIyQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yeviki&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeviki&theme=react&layout=compact" />
-</p>
+
 
 Credit: [yeviki](https://github.com/yeviki)
 
