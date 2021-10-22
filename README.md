@@ -9,18 +9,25 @@ A **WEB DEVELOPMENT** ***Enthusiast*** 🚀.
 
   <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
-**About Me!**
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=yeviki&theme=cobalt&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
 
-- 👨🏽‍💻 I’m currently a CSE Undergrad student at GTBIT, GGSIPU
-- 🌱 I’m currently exploring JAVA with a big interest in JAVA applets and Data Structures and Algorithms. 
-- 🤔 My interest lies in front end web development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [jsmokha33@gmail.com](mailto:jsmokha33@gmail.com).
-- 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=yeviki&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeviki&theme=react&layout=compact" />
-</p>
+
+  
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yeviki&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
 
 <!-- CONNECTION -->
 <a href="https://www.youtube.com/channel/UCGxLwThl-qukhCM9EViuIyQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>     
